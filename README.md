@@ -1,7 +1,6 @@
 # Hi! My name is Hamid Khan 😊
 
-💻 *Web Developer | Dev Diligent*  
-📍 Based in Pakistan  
+🌍 Front End Engineer based in Abbottabad, Pakistan
 
 ---
 
