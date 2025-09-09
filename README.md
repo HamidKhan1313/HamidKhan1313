@@ -1,6 +1,6 @@
 # Hi! My name is Hamid Khan 😊
 
-🌍 Front End Engineer based in Abbottabad, Pakistan
+🌍 Front End Engineer based in Islamabad, Pakistan
 
 ---
 
